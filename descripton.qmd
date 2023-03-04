@@ -1,0 +1,32 @@
+---
+format: 
+  pdf:
+    include-in-header: 
+      - file: "ARC biblio.tex"
+    cite-method: biblatex
+    geometry:
+      - top=0.5cm
+      - left=0.5cm
+      - bottom=0.5cm
+      - right=0.5cm     
+editor_options: 
+  chunk_output_type: console
+execute:
+  freeze: auto
+  echo: false
+bibliography: citations.bib
+---
+
+# PROJECT TITLE
+
+# PROJECT AIMS AND BACKGROUND
+
+# INVESTIGATOR(S)/CAPABILITY
+
+# PROJECT QUALITY AND INNOVATION
+
+# BENEFIT
+
+# FEASIBILITY
+
+# COMMUNICATION OF RESULTS
